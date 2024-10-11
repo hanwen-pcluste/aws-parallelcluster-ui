@@ -30,7 +30,7 @@ flask==2.1.2
     #   flask-cors
 flask-cors==3.0.10
     # via -r requirements.in
-idna==3.4
+idna==3.7
     # via requests
 importlib-metadata==6.6.0
     # via flask
